@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VytautasJonkus
 - 👀 I’m interested in test automation.
-- 🌱 I’m currently learning WebDriverIO.
+- 🌱
 
 
 <!---
